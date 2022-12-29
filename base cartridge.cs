@@ -39,7 +39,7 @@ namespace WindowsFormsApp1
             try
             {
                 //закончился тонер таблица
-                MySqlConnection con = new MySqlConnection("server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz");
+                MySqlConnection con = new MySqlConnection("");\\need add sqlserver
                 con.Open();
                 string querystring = "SELECT * FROM oldcartriges";
                 MySqlCommand test = new MySqlCommand(querystring, con);
@@ -77,12 +77,7 @@ namespace WindowsFormsApp1
         {
             RefreshDatagrid(dataGridView2);
             RefreshDatagrid(dataGridView3);
-            {
-                string test = "server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz;";
-                MySqlConnection testcon = new MySqlConnection(test);
-                testcon.Open();
-            }
-            string constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz;";
+            string constr = "server = ;";\new add sqlserver
             MySqlConnection mycon = new MySqlConnection(constr);
             mycon.Open();
             bool allEmpty = true;
@@ -216,7 +211,7 @@ namespace WindowsFormsApp1
         private void button1_Click_1(object sender, EventArgs e)
         {
             {
-                var constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123; password = Ae344se53mkEiz;";
+                var constr = "";\\need add sqlserver
                 MySqlConnection mycon = new MySqlConnection(constr);
                 mycon.Open();
                 var datesstart = dateTimePicker1.Value.ToString("yyyyMMdd", CultureInfo.InvariantCulture);
@@ -252,7 +247,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click_2(object sender, EventArgs e)
         {
-            var constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123; password = Ae344se53mkEiz;";
+            var constr = "server = ";\\new add sqlserver
             MySqlConnection mycon = new MySqlConnection(constr);
             mycon.Open();
             string[] a, b, c;
@@ -343,7 +338,7 @@ namespace WindowsFormsApp1
             }
             if (!someEmpty)
             {
-                string constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz;";
+                string constr = "server = ";\\new add sqlserver
                 MySqlConnection mycon = new MySqlConnection(constr);
                 mycon.Open();
                 MySqlCommand cmd = new MySqlCommand("iNSERT INTO technique(`tehnique`, `Lastname`, `invertnumber`, `date`) VAlUES ('" + textBox3.Text + "','" + textBox4.Text + "','" + textBox5.Text + "',now())", mycon);
@@ -357,7 +352,7 @@ namespace WindowsFormsApp1
             DialogResult result = MessageBox.Show("Вам вернули технику?", "Подтвердите действие", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
-                var constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123; password = Ae344se53mkEiz;";
+                var constr = "server = ";\\new add sqlserver
                 MySqlConnection mycon = new MySqlConnection(constr);
                 mycon.Open();
                 string[] c;
@@ -431,7 +426,7 @@ namespace WindowsFormsApp1
             DialogResult result = MessageBox.Show("Удалить выбранные данные из базы?", "Подтвердите действие", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes)
             {
-                var constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123; password = Ae344se53mkEiz;";
+                var constr = "server = ";\\new add sqlserver
                 MySqlConnection mycon = new MySqlConnection(constr);
                 mycon.Open();
                 string[] a, c;
@@ -553,7 +548,7 @@ namespace WindowsFormsApp1
                     {
                         try
                         {
-                            string constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz;";
+                            string constr = ";";\\need add sqlserver
                             MySqlConnection mycon = new MySqlConnection(constr);
                             mycon.Open();
                             MySqlCommand cmd = new MySqlCommand("iNSERT INTO BaseCartridge(`Invent №`, `Cartridge`, `summ`) VAlUES ('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox6.Text + "')", mycon);
@@ -574,7 +569,7 @@ namespace WindowsFormsApp1
         {
             {
 
-                string constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123;password = Ae344se53mkEiz;";
+                string constr = "";need add sqlserver
                 MySqlConnection mycon = new MySqlConnection(constr);
                 mycon.Open();
                 string[]  c;
@@ -619,7 +614,7 @@ namespace WindowsFormsApp1
         private void button8_Click(object sender, EventArgs e)
         {
             
-            var constr = "server = 192.168.6.25;port = 3306; database = test123;user= test123; password = Ae344se53mkEiz;";
+            var constr = "";\\need add sqlserver
             MySqlConnection mycon = new MySqlConnection(constr);
             mycon.Open();
             string[] a ;
