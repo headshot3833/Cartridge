@@ -1,0 +1,133 @@
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.AssemblyReference.cache
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.GenerateResource.cache
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CoreCompileInputs.cache
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CopyComplete
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.AssemblyReference.cache
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.GenerateResource.cache
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CoreCompileInputs.cache
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CopyComplete
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.AssemblyReference.cache
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.SuggestedBindingRedirects.cache
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.GenerateResource.cache
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CoreCompileInputs.cache
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CopyComplete
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\head\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.AssemblyReference.cache
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.GenerateResource.cache
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CoreCompileInputs.cache
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chuvashov\Desktop\Новая папка (5)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\cartridge and tech.csproj.CopyComplete
